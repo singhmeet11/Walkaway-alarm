@@ -4,7 +4,7 @@ Automated unit imitating a timer which stops after a certain predefined number o
 1.DS3231 RTC module
 
 
-2. ADXL 335
+2.ADXL 335
 
 
 3.Arduino Uno
