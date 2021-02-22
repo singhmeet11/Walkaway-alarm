@@ -3,7 +3,6 @@ Automated unit imitating a timer which stops after a certain predefined number o
 # Parts used
 1.DS3231 RTC module
 
-
 2.ADXL 335
 
 
